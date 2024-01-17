@@ -1,3 +1,38 @@
+###  Mac OS
+
+# Temp Mac file
+*.DS_store
+
+
+### Stata 
+
+# Stata aux files
+*.tmp
+
+
+### Text Editors 
+
+#  Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+#  Visual Studio
+*.code-workspace 
+*.vscode*
+
+
+
+### Misc
+
+# Jupyter notebooks checkpoints
+*-checkpoint.ipynb
+
+#  Things open in excel
+*~$*.xls*
+
+
+#### R  
+
 # History files
 .Rhistory
 .Rapp.history
@@ -20,10 +55,7 @@
 
 # RStudio files
 .Rproj.user/
-
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
+*.Rproj
 
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
 .httr-oauth
