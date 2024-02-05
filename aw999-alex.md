@@ -1,6 +1,7 @@
 My name is Alex and I'll be sharing lyrics of the song "the gambler" by Kenny Rogers
 
-Alex's song is completely unknown to me
+Album Title: The Gambler
+Release Year: 1978
 
 On a warm summer's evening
 On a train bound for nowhere
@@ -74,3 +75,5 @@ You never count your money
 When you're sittin' at the table
 There'll be time enough for countin'
 When the dealin's done
+
+THE END.
