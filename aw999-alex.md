@@ -1,5 +1,8 @@
 My name is Alex and I'll be sharing lyrics of the song "the gambler" by Kenny Rogers
 
+Album Title: The Gambler
+Release Year: 1978
+
 On a warm summer's evening
 On a train bound for nowhere
 I met up with the gambler
