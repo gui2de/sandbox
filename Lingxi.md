@@ -1,2 +1,2 @@
-My name is Lingxi Li
+My name is Lingxi Li.
 
