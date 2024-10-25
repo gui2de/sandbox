@@ -8,6 +8,7 @@
 
 # Stata aux files
 *.tmp
+*.stswp
 
 
 ### Text Editors 
