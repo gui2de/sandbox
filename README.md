@@ -1,2 +1,2 @@
 
-My name is SHun
+Sandbox repo for gui2de. Play around, break things and fix them!
