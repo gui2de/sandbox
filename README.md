@@ -6,3 +6,5 @@ It's the place to break things!
 Making some edit here.
 
 Juan's Contribution: :D
+
+Bea's contribution to the readme.
